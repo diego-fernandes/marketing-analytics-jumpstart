@@ -209,3 +209,6 @@ python/*.yaml
 
 # Google credential files
 .credentials/
+
+# My env execution
+set-env.sh
